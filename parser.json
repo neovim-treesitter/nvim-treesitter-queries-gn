@@ -1,6 +1,6 @@
 {
-  "url": "https://github.com/tree-sitter-grammars/tree-sitter-gn",
-  "semver": false,
   "parser_version": "bc06955bc1e3c9ff8e9b2b2a55b38b94da923c05",
-  "lang": "gn"
+  "lang": "gn",
+  "url": "https://github.com/tree-sitter-grammars/tree-sitter-gn",
+  "semver": false
 }
